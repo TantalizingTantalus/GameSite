@@ -14,8 +14,12 @@ document.addEventListener("DOMContentLoaded", () => {
 			const container = document.getElementById("gameContainer");
 			console.log(container);
 			games.forEach((game, index) => {
+				console.log(game.cover);
 				container.innerHTML += `
 				<section class="vh-100 d-flex flex-column justify-content-center align-items-center text-center" id="game-${index}">
+					
+					<img src="${game.cover}"></img>
+					<div style="height:5%;"></div>
 					<h1>${index+1}. -- ${game.title} -- ${game.rating}</h1>
 					<p class="text-muted" style="font-size:2rem;">
 						${game.desc}
@@ -26,6 +30,7 @@ document.addEventListener("DOMContentLoaded", () => {
 							<img src="arrow.png" class="ArrowPNGStyle fading-arrow">
 						</a>
 					` : ""}
+					<div style="height:15%;"></div>
 				</section>
 				`;
 			});
