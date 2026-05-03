@@ -14,13 +14,13 @@ document.addEventListener("DOMContentLoaded", () => {
 			const container = document.getElementById("gameContainer");
 			console.log(container);
 			games.forEach((game, index) => {
-				console.log(game.cover);
+				var textDate = new Date(Number(game.releaseDate));
 				container.innerHTML += `
 				<section class="vh-100 d-flex flex-column justify-content-center align-items-center text-center" id="game-${index}">
 					
 					<img src="${game.cover}"></img>
 					<div style="height:5%;"></div>
-					<h1>${index+1}. -- ${game.title} -- ${game.releaseDate}</h1>
+					<h1>${index+1}. -- ${game.title} -- ${textDate}</h1>
 					<p class="text-muted" style="font-size:2rem;">
 						${game.desc}
 					</p>
