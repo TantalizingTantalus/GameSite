@@ -28,7 +28,7 @@ async function run() {
       "Authorization": `Bearer ${accessToken}`
     },
     body: `
-      fields name,summary,cover.image_id;
+      fields name,summary,first_release_date,platforms.name,cover.image_id;
       where first_release_date >= ${start} & first_release_date < ${end};
       sort popularity desc;
       limit 20;
@@ -40,6 +40,7 @@ async function run() {
   const games = data.map(g => ({
     title: g.name,
     desc: g.summary || "No description available",
+    releaseDate: g.first_release_date,
     cover: g.cover ? `https://images.igdb.com/igdb/image/upload/t_cover_big/${g.cover.image_id}.jpg` : null
   }));
 
