@@ -28,7 +28,7 @@ async function run() {
       "Authorization": `Bearer ${accessToken}`
     },
     body: `
-      fields name,summary;
+      fields name,summary,rating;
       where first_release_date >= ${start} & first_release_date < ${end};
       sort popularity desc;
       limit 20;
@@ -39,7 +39,7 @@ async function run() {
 
   const games = data.map(g => ({
     title: g.name,
-    rating: "TBD",
+    rating: g.rating,
     desc: g.summary || "No description available"
   }));
 
