@@ -8,7 +8,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
 	console.log("Loading games...");
 
-	fetch("games.json")
+	fetch("https://raw.githubusercontent.com/TantalizingTantalus/GameSite/main/games.json")
 		.then(res => res.json())
 		.then(games => {
 			const container = document.getElementById("gameContainer");
