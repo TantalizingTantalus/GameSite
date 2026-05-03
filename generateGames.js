@@ -29,8 +29,8 @@ async function run() {
     },
     body: `
       fields *;
-      where game.platforms = 48 & date < 1538129354; sort date desc;
-      sort popularity desc;
+      where date < 1538129354; 
+      sort date desc;
       limit 20;
     `
   });
