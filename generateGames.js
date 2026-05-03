@@ -28,8 +28,7 @@ async function run() {
       "Authorization": `Bearer ${accessToken}`
     },
     body: `
-      fields *;
-      where date < 1538129354; 
+      fields name,summary,first_release_date,platforms.name,cover.image_id;
       sort date desc;
       limit 20;
     `
