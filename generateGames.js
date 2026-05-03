@@ -29,7 +29,6 @@ async function run() {
     },
     body: `
       fields name,summary,first_release_date,platforms.name,cover.image_id;
-      where first_release_date >= ${start} & first_release_date < ${end};
       sort popularity desc;
       limit 20;
     `
