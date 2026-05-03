@@ -13,8 +13,8 @@ document.addEventListener("DOMContentLoaded", () => {
 		.then(games => {
 			const container = document.getElementById("gameContainer");
 			console.log(container);
+			var textDate = new Date(Number(games[0].releaseDate));
 			games.forEach((game, index) => {
-				var textDate = new Date(Number(game.releaseDate));
 				container.innerHTML += `
 				<section class="vh-100 d-flex flex-column justify-content-center align-items-center text-center" id="game-${index}">
 					
