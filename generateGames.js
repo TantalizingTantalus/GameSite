@@ -28,7 +28,7 @@ async function run() {
       "Authorization": `Bearer ${accessToken}`
     },
     body: `
-      fields name,summary,rating;
+      fields name,summary,cover.image_id;
       where first_release_date >= ${start} & first_release_date < ${end};
       sort popularity desc;
       limit 20;
@@ -39,8 +39,8 @@ async function run() {
 
   const games = data.map(g => ({
     title: g.name,
-    rating: g.rating,
-    desc: g.summary || "No description available"
+    desc: g.summary || "No description available",
+    cover: g.cover ? `https://images.igdb.com/igdb/image/upload/t_cover_big/${g.cover.image_id}.jpg` : null
   }));
 
   fs.writeFileSync("games.json", JSON.stringify(games, null, 2));
