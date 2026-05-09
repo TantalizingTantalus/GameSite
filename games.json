@@ -5,12 +5,6 @@
     "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa0fw.jpg"
   },
   {
-    "title": "Power Sink",
-    "desc": "Power Sink is a Puzzle-Platformer, set in the depths of an underwater hydrothermal power plant. Explore and repair the station before it falls to pieces from the pressure of the sea and the heat from below.",
-    "releaseDate": 1747872000,
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9f39.jpg"
-  },
-  {
     "title": "A Very Corporate Escape Room",
     "desc": "This is no ordinary escape room; this is A Very Corporate Escape Room. In this first person 3D puzzle adventure you will solve challenges, unlock secret locations and uncover the dark truth about your manager in a chilling satire of office life.",
     "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co594f.jpg"
@@ -112,5 +106,10 @@
     "desc": "Story: Red receives the invitation card from her grandmother and decides to visit her, but there is all over the monsters on her way. Those monsters try to stop and take her away, so she needs to use her personality to get out of the danger. The story background is in the deep forest. Red has to pass challenges to arrive her grandma's house. However, she finds out her grandma's conspiracy and then fight with the monster which is turned from her grandmother to save the girls.",
     "releaseDate": 1482624000,
     "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co82p2.jpg"
+  },
+  {
+    "title": "Flashy Maze",
+    "desc": "No description available",
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2q64.jpg"
   }
 ]
