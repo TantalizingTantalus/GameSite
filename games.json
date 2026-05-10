@@ -16,6 +16,12 @@
     "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9tq2.jpg"
   },
   {
+    "title": "Pac-Man Museum+",
+    "desc": "A compilation of 14 Pac-Man titles. Players can earn coins by playing the games to purchase items to decorate an in-game arcade.",
+    "releaseDate": 1653523200,
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4smp.jpg"
+  },
+  {
     "title": "Ace wo Nerae!",
     "desc": "A tennis game for the Super Famicom based on the 1970s manga and anime of the same name.",
     "releaseDate": 756518400,
@@ -106,10 +112,5 @@
     "desc": "Story: Red receives the invitation card from her grandmother and decides to visit her, but there is all over the monsters on her way. Those monsters try to stop and take her away, so she needs to use her personality to get out of the danger. The story background is in the deep forest. Red has to pass challenges to arrive her grandma's house. However, she finds out her grandma's conspiracy and then fight with the monster which is turned from her grandmother to save the girls.",
     "releaseDate": 1482624000,
     "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co82p2.jpg"
-  },
-  {
-    "title": "Flashy Maze",
-    "desc": "No description available",
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2q64.jpg"
   }
 ]
