@@ -5,6 +5,12 @@
     "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa0fw.jpg"
   },
   {
+    "title": "Little Gold Miner",
+    "desc": "Little Gold Miner is a short indie puzzle game in which you'll have to draw a path through a strange mine using randomly generated rails.\n25 levels to solve to recover your freedom!\nA random mode is available as a challenge if you feel capable.\nLGM is a \"one man game\" and my first being published.",
+    "releaseDate": 1520812800,
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobddb.jpg"
+  },
+  {
     "title": "A Very Corporate Escape Room",
     "desc": "This is no ordinary escape room; this is A Very Corporate Escape Room. In this first person 3D puzzle adventure you will solve challenges, unlock secret locations and uncover the dark truth about your manager in a chilling satire of office life.",
     "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co594f.jpg"
@@ -106,11 +112,5 @@
     "desc": "This is a casual jigsaw puzzle game. All you need to do is use the mouse to drag the pieces to the correct positions, and when you complete the puzzle and form a complete picture, you can unlock the picture gallery.",
     "releaseDate": 1754265600,
     "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaei2.jpg"
-  },
-  {
-    "title": "Red",
-    "desc": "Story: Red receives the invitation card from her grandmother and decides to visit her, but there is all over the monsters on her way. Those monsters try to stop and take her away, so she needs to use her personality to get out of the danger. The story background is in the deep forest. Red has to pass challenges to arrive her grandma's house. However, she finds out her grandma's conspiracy and then fight with the monster which is turned from her grandmother to save the girls.",
-    "releaseDate": 1482624000,
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co82p2.jpg"
   }
 ]
