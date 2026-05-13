@@ -56,11 +56,6 @@
     "cover": null
   },
   {
-    "title": "Silence, Exile, and Cunning",
-    "desc": "Silence, Exile, and Cunning is a narrative exploration of real geography and fictionalized history. You progress through scenes, interact with unusual characters, and solve puzzles through James’s wit and Nora’s practical sense.",
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobkux.jpg"
-  },
-  {
     "title": "BanG Dream! Girls Band Party! for Nintendo Switch",
     "desc": "Popular rhythm game in Japan!\nTap to the rhythm of over 200 songs to choose from.\nPlay both original and cover songs from popular J-Pop artists and anime songs!\nPlay your favorite songs on a level of difficulty that suits you!",
     "releaseDate": 1631750400,
@@ -112,5 +107,11 @@
     "desc": "This is a casual jigsaw puzzle game. All you need to do is use the mouse to drag the pieces to the correct positions, and when you complete the puzzle and form a complete picture, you can unlock the picture gallery.",
     "releaseDate": 1754265600,
     "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaei2.jpg"
+  },
+  {
+    "title": "Red",
+    "desc": "Story: Red receives the invitation card from her grandmother and decides to visit her, but there is all over the monsters on her way. Those monsters try to stop and take her away, so she needs to use her personality to get out of the danger. The story background is in the deep forest. Red has to pass challenges to arrive her grandma's house. However, she finds out her grandma's conspiracy and then fight with the monster which is turned from her grandmother to save the girls.",
+    "releaseDate": 1482624000,
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co82p2.jpg"
   }
 ]
