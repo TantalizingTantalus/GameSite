@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", () => {
-
+	document.getElementById("backToTop").style.display = "none";
 	const days = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
 
 	const d = new Date();
@@ -15,8 +15,9 @@ document.addEventListener("DOMContentLoaded", () => {
 			console.log(container);
 			
 			games.forEach((game, index) => {
-				var textDate = new Date(Number(game.releaseDate*1000));
-				.toLocaleDateString("en-US", {
+				
+				var textDate = new Date(game.releaseDate * 1000)
+					.toLocaleDateString("en-US", {
 					year: "numeric",
 					month: "long",
 					day: "numeric"
@@ -24,7 +25,7 @@ document.addEventListener("DOMContentLoaded", () => {
 				container.innerHTML += `
 				<section class="vh-100 d-flex flex-column justify-content-center align-items-center text-center" id="game-${index}">
 					
-					<img src="${game.cover}"></img>
+					<img style="width:40%;height:60%;" src="${game.cover}"></img>
 					<div style="height:5%;"></div>
 					<h1>${index+1}. -- ${game.title} -- ${textDate}</h1>
 					<p class="text-muted" style="font-size:2rem;">
@@ -42,3 +43,25 @@ document.addEventListener("DOMContentLoaded", () => {
 			});
 		});
 });
+
+function testFunc() {
+	console.log("hello world");
+}
+
+function ScrollToTop() {
+	document.body.scrollTop = 0;
+	document.documentElement.scrollTop = 0;
+}
+
+
+
+window.onscroll = function(e)
+{
+	const backToTopButton = document.getElementById("backToTop");
+	if(window.scrollY > 0)
+	{
+		backToTopButton.style.display = "block";
+	}else{
+		backToTopButton.style.display = "none";
+	}
+}
