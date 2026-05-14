@@ -1,6 +1,122 @@
 [
   {
+    "title": "Star Fighters",
+    "desc": "Star Fighters is a fully cross-platform shooter RPG where you can hunt down other players' spaceships or AI bots, either by yourself or as a team with your friends.",
+    "releaseDate": 2240524800,
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co421c.jpg"
+  },
+  {
+    "title": "Claria's Great Maze",
+    "desc": "Behind the Claria's Great Maze is the last village of humanity, and the maze is also the last barrier for humans to block enemies. And you are the last guardian of magic, the last hope of humanity.",
+    "releaseDate": 1924905600,
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7vkm.jpg"
+  },
+  {
+    "title": "PilotXross",
+    "desc": "VR flight game developed for VR devices.The player becomes a [Pilot] flying in the sky with a VRM model, wearing an equipment called [Xross], you can enjoy various ways of flying. The fastest time is to take a commemorative photo and share it on SNS!",
+    "releaseDate": 1923955200,
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3vbi.jpg"
+  },
+  {
+    "title": "Shadowless",
+    "desc": "Shadowless is a first-person psychological horror game. Explore a creepy house marked by tragedy, where dark entities and the past haunt you. Defenseless, you face a nightmare that consumes you before you can escape.",
+    "releaseDate": 1919116800,
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa1ec.jpg"
+  },
+  {
+    "title": "Doge Simulator",
+    "desc": "Doge wants to destroy! Doge wants this whole damn city to be destroyed! Smash the shops, cafes and even the damn palm trees! In our game you play as Doge, and you have to destroy, smash and break!",
+    "releaseDate": 1916524800,
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6b1i.jpg"
+  },
+  {
+    "title": "Slimes & Dusters TO",
+    "desc": "Lead an army of slimes on the offensive against the dusters that have invaded your planet and restore your home to its former glory in this Tower Offense game!",
+    "releaseDate": 1912118400,
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7ctb.jpg"
+  },
+  {
+    "title": "NeptuneGL",
+    "desc": "Enjoy the thrill of the hunt in this 6 degree of freedom space shooter with immersive graphics and multiplayer.",
+    "releaseDate": 1894406400,
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3b9x.jpg"
+  },
+  {
+    "title": "Bad Girl",
+    "desc": "Bad Girl - Hardcore platformer made in the old-school style where there is nothing superfluous",
+    "releaseDate": 1893369600,
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3lur.jpg"
+  },
+  {
+    "title": "Loop Craft",
+    "desc": "Loop Craft is a game about economics. There is an item trading system within the game. This game has a variety of item mix systems. And have a reservation system to set up a factory to produce products for sale in the game.",
+    "releaseDate": 1893369600,
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3hb5.jpg"
+  },
+  {
+    "title": "In the Valley of Gods",
+    "desc": "In the Valley of Gods is a single-player first person video game set in Egypt in the 1920s. You play as an explorer and filmmaker who, along with your old partner, has traveled to the middle of the desert in the hopes of making a seemingly-impossible discovery and an incredible film.",
+    "releaseDate": 1890777600,
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2eyk.jpg"
+  },
+  {
+    "title": "Plague Hunter",
+    "desc": "Plague Hunter is an indie platformer game in the dark fantasy vein. In the game you’ll be using sword and gun to cut your way through hordes of zombies and other terrible monsters, avoiding deadly traps.",
+    "releaseDate": 1865116800,
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5vmj.jpg"
+  },
+  {
+    "title": "Fabled",
+    "desc": "An RPG adventure where you make (...or break) friends!\n\nFabled is an Omori/Deltarune inspired game about exploring a magical world within an old music box.",
+    "releaseDate": 1861833600,
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc0ex.jpg"
+  },
+  {
+    "title": "Wonderful Neoran Valley",
+    "desc": "Wonderful Neoran Valley is a Monster Collector Roguelite experience, in which you will have to convince the creatures you meet to follow you and fight by your side, on your way to uncovering the dark secret that plagues the Neoran Valley.\nYes, you read that correctly: Roguelite!",
+    "releaseDate": 1861833600,
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobojo.jpg"
+  },
+  {
+    "title": "A Fighter’s Nova: Mindara",
+    "desc": "A Fighter’s Nova: Mindara is a narrative-driven JRPG that fuses character-focused storytelling with the intensity and precision of a true tag-team fighting game.",
+    "releaseDate": 1861833600,
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coblji.jpg"
+  },
+  {
+    "title": "Bound City",
+    "desc": "An action-packed and bittersweet adventure in a city of endless night. Explore the dying city and try to find your way to the tower that seems to be at the heart of it all. Nothing is quite as it appears to be, and only by facing death can you hope to understand the mysteries of Bound City.",
+    "releaseDate": 1861833600,
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa6s7.jpg"
+  },
+  {
+    "title": "Project Restitution",
     "desc": "No description available",
-    "cover": null
+    "releaseDate": 1861833600,
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa54r.jpg"
+  },
+  {
+    "title": "Frond Online",
+    "desc": "Frond Online will be a game in the acclaimed MMORPG style, developed in Unreal Engine 5. It will feature a 3D view. Players will need to evolve their characters to explore increasingly challenging areas. Player characters must enhance their attributes and skills as they gain experience and levels, as well as acquire new equipment and relics scattered throughout the world. Each player can join groups and/or guilds, meeting new people or playing with friends, to develop and explore the world together. As a 'Game as a Service,' the promise is that there will always be new content released periodically, keeping players entertained and excited to explore and discover new places and challenges.",
+    "releaseDate": 1861833600,
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8gqb.jpg"
+  },
+  {
+    "title": "All the King's Men",
+    "desc": "A classic-styled, turn-based, 2D RPG with 60+ hours of open-world questing and exploration.",
+    "releaseDate": 1861833600,
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3ld6.jpg"
+  },
+  {
+    "title": "Withering Age",
+    "desc": "Withering Age is a real-time strategy roguelike set in a dark fantasy, medieval world brimming with magic, danger, and decay. Build and expand your kingdom, train loyal troops and mighty champions, and defend your lands against relentless hordes.",
+    "releaseDate": 1853884800,
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobwul.jpg"
+  },
+  {
+    "title": "King of Conquerors",
+    "desc": "Your journey from adventurer to king will begin here!",
+    "releaseDate": 1853884800,
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5ik6.jpg"
   }
 ]
