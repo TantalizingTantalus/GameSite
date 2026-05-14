@@ -16,12 +16,17 @@ document.addEventListener("DOMContentLoaded", () => {
 			
 			games.forEach((game, index) => {
 				var textDate = new Date(Number(game.releaseDate*1000));
+				.toLocaleDateString("en-US", {
+					year: "numeric",
+					month: "long",
+					day: "numeric"
+					});
 				container.innerHTML += `
 				<section class="vh-100 d-flex flex-column justify-content-center align-items-center text-center" id="game-${index}">
 					
 					<img src="${game.cover}"></img>
 					<div style="height:5%;"></div>
-					<h1>${index+1}. -- ${game.title} -- ${textDate.substring(0,16)}</h1>
+					<h1>${index+1}. -- ${game.title} -- ${textDate}</h1>
 					<p class="text-muted" style="font-size:2rem;">
 						${game.desc}
 					</p>
