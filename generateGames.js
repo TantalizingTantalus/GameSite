@@ -29,9 +29,11 @@ async function run() {
     },
     body: `
       fields name,summary,first_release_date,platforms.name,cover.image_id;
-      where first_release_date != null;
-      sort first_release_date desc;
-      limit 20;
+    where first_release_date != null
+      & first_release_date >= ${startOfDay}
+      & first_release_date < ${endOfDay};
+    sort first_release_date asc;
+    limit 50;
     `
   });
 
