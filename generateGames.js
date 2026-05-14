@@ -29,7 +29,7 @@ async function run() {
     },
     body: `
       fields name,summary,first_release_date,platforms.name,cover.image_id;
-      where date < 1538129354; sort date desc;
+      sort date desc;
       limit 20;
     `
   });
