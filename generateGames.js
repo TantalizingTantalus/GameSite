@@ -28,7 +28,8 @@ async function run() {
       "Authorization": `Bearer ${accessToken}`
     },
     body: `
-      fields *; where game.platforms = 48 & date < 1538129354; sort date desc;
+      fields name,summary,first_release_date,platforms.name,cover.image_id;
+      where date < 1538129354; sort date desc;
       limit 20;
     `
   });
