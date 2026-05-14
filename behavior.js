@@ -18,6 +18,7 @@ document.addEventListener("DOMContentLoaded", () => {
 				
 				var textDate = new Date(game.releaseDate * 1000)
 					.toLocaleDateString("en-US", {
+					timeZone: "UTC",
 					year: "numeric",
 					month: "long",
 					day: "numeric"
