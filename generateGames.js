@@ -3,6 +3,9 @@ const fs = require("fs");
 const CLIENT_ID = process.env.CLIENT_ID;
 const CLIENT_SECRET = process.env.CLIENT_SECRET;
 
+const startOfDay = Math.floor(new Date().setUTCHours(0,0,0,0) / 1000);
+const endOfDay = startOfDay + 86400;
+
 async function run() {
   const tokenRes = await fetch("https://id.twitch.tv/oauth2/token", {
     method: "POST",
