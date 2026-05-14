@@ -21,7 +21,7 @@ document.addEventListener("DOMContentLoaded", () => {
 					
 					<img src="${game.cover}"></img>
 					<div style="height:5%;"></div>
-					<h1>${index+1}. -- ${game.title} -- ${textDate}</h1>
+					<h1>${index+1}. -- ${game.title} -- ${textDate.substring(0,16)}</h1>
 					<p class="text-muted" style="font-size:2rem;">
 						${game.desc}
 					</p>
