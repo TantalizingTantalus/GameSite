@@ -62,7 +62,9 @@ window.onscroll = function(e)
 	if(window.scrollY > 0)
 	{
 		backToTopButton.style.display = "block";
+		document.getElementById("scrollToContinueText").style.display = "none";
 	}else{
 		backToTopButton.style.display = "none";
+		document.getElementById("scrollToContinueText").style.display = "block";
 	}
 }
