@@ -1,20 +1,14 @@
 [
   {
-    "title": "Retro Collection: 3 in 1",
-    "desc": "Three timeless classics. Endless retro fun.",
-    "releaseDate": 1778889600,
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc06x.jpg"
+    "title": "Suisaiga ha Suitei ni Shizumu",
+    "desc": "Watercolors Sink Beneath the Surface is a nostalgic pixel-art point-and-click adventure set on Narumi Island, where only an abandoned high school stands. Years later, two girls return to complete a watercolor inspired by their school memories, gathering ideas from the remnants of the past.",
+    "releaseDate": 1778976000,
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobokg.jpg"
   },
   {
-    "title": "Block Run",
-    "desc": "BLOCK RUN is a fast, minimalist grid-based dodge game where you play as a single square racing to the far side of the arena across 10 quick levels. Each stage is a short, high-pressure run on a live grid. Enemy blocks move left and right in predictable “ping-pong” paths, with some resetting automatically, pushing you to judge timing, bait openings, and slip through at the exact moment; no extra assets, no distractions—just pure top-down arcade precision and rapid retries.",
-    "releaseDate": 1778889600,
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc0u3.jpg"
-  },
-  {
-    "title": "The Frog’s Adventure",
-    "desc": "He is not a handsome frog, but he wears overalls, boots, and is very likeable.\nA superhero nobody asked for.",
-    "releaseDate": 1778889600,
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc25u.jpg"
+    "title": "Forestress Shade",
+    "desc": "Forestress Shade is a strategy puzzle game that combines roguelike elements with chess. Command, battle, win, and acquire new animals. Control your animal army, defeat the approaching enemies, and venture to the edge of the deadshade forest.",
+    "releaseDate": 1778976000,
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobw0p.jpg"
   }
 ]
