@@ -1,8 +1,122 @@
 [
   {
-    "title": "Exc.: Reigai Jishou Kanshikyoku",
-    "desc": "No description available",
-    "releaseDate": 1779580800,
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc1p0.jpg"
+    "title": "Paralives",
+    "desc": "You live and then you die. But at least do it in a nice house! Paralives is an upcoming life simulation indie game. Build your dream house, create some characters and manage their lives the way you want!",
+    "releaseDate": 1779667200,
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa4iq.jpg"
+  },
+  {
+    "title": "Enter the Chronosphere",
+    "desc": "A psychedelic roguelike that blurs the line between real-time action and turn-based tactics. Play as misfit aliens, craft wild combinations between hundreds of weapons, items and abilities, and disable uncharted chronospheres: Colossal structures that consume time and distort reality.",
+    "releaseDate": 1779667200,
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co862m.jpg"
+  },
+  {
+    "title": "Vortica",
+    "desc": "Vortica is a 2D action roguelite set in a solar system overrun by hostile aliens. Suit up, loot up, and shoot up as you battle against enemy hordes, explore derelict outposts, and hunt giant bosses. Each mission gets you one step closer to reaching Earth and saving the human race.",
+    "releaseDate": 1779667200,
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobh1w.jpg"
+  },
+  {
+    "title": "Transpawt Train",
+    "desc": "Real-time strategy simulation where you become the first railroad designer in the Paw-City! Draw railroad lines between towns and start running your trains. Design railroads for your cute animal residents and grow your Paw_City with efficient routes.",
+    "releaseDate": 1779667200,
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9w9p.jpg"
+  },
+  {
+    "title": "Steam & Clicks",
+    "desc": "Build, upgrade, and fight! In a steampunk world overrun by the undead, Rose Mary uses her workshop to craft weapons and armor in this strategic clicker. Forge powerful gear and face turn-based battles to save her city!",
+    "releaseDate": 1779667200,
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9zus.jpg"
+  },
+  {
+    "title": "Tour: Chess Puzzles",
+    "desc": "Elegant, varied and challenging chess-themed puzzles. No prior knowledge of chess is needed.",
+    "releaseDate": 1779667200,
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa714.jpg"
+  },
+  {
+    "title": "Animal Times",
+    "desc": "Command animal armies and conquer territories in this turn-based strategy game where every attack can backfire! Master blunder-style combat, where failed strikes let defenders capture your lands. Bold moves win big in this high-stakes battle for cunning victory.",
+    "releaseDate": 1779667200,
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa86m.jpg"
+  },
+  {
+    "title": "Castella",
+    "desc": "Castella is a Tower Defense Rogue-like, where you will build a fortress to defend yourself from hordes of monsters besieging your castle. During the game you will unlock and upgrade towers and buildings. You will build walls to block the path and defend your resources and town hall.",
+    "releaseDate": 1779667200,
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaa36.jpg"
+  },
+  {
+    "title": "SkyShard",
+    "desc": "Build your island kingdom and battle other wizards in a war for the throne! A PvP auto battler taking inspiration from city builders and puzzle games.\n\nYour island starts empty, and as you progress through the game you can spend your Mana resource to travel to distant skyshards for resources. Build up your little kingdom and fight other players with asynchronous PVP matchmaking. Can you figure out which units combine best together, and how to manage the space on your little skyshard?",
+    "releaseDate": 1779667200,
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobhsg.jpg"
+  },
+  {
+    "title": "Plague Alchemist",
+    "desc": "Plague Alchemist is a singleplayer adventure RPG with a deep focus on alchemy. Explore a world where the mundane intertwines with the magical and the corrupt. Harvest and loot your way to uncover the truth behind the world's mysterious decay. Perhaps there is more to it than meets the eye.",
+    "releaseDate": 1779667200,
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coalru.jpg"
+  },
+  {
+    "title": "Slot or Not",
+    "desc": "Deck-building turn-based slot machine battling adventure. Fight evil fruits aside your battle buddy slot machine to save your village. Spin your destiny and grab the precious loot in a fast paced colorful adventure.",
+    "releaseDate": 1779667200,
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaomz.jpg"
+  },
+  {
+    "title": "Bruisers 2D Boxing",
+    "desc": "Step into the ring and fight your way to the top in Bruisers 2D Boxing — a gritty, retro-styled boxing RPG where every punch counts and every decision shapes your career.\n\nWelcome to the unforgiving world of professional boxing. Build your legacy from the ground up — train hard, fight smart, and manage the life of an up-and-coming fighter chasing glory. With in-depth 2D boxing action and a rich career mode, Bruisers 2D Boxing captures the raw intensity of the sport like never before.",
+    "releaseDate": 1779667200,
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob3kf.jpg"
+  },
+  {
+    "title": "Feed The Queen",
+    "desc": "FEED THE QUEEN is an active incremental game with a focus on strategic play and synergy-building.\n\nGather food to grow and evolve your colony. Hatch and upgrade different worker types. Discover new synergies. Optimize your production, customize your build, and feed the Queen ever-increasing amounts of food.",
+    "releaseDate": 1779667200,
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobepn.jpg"
+  },
+  {
+    "title": "Budgie's Bug Shop",
+    "desc": "A short incremental game about catching bugs and running a shop. Upgrade equipment, purchase game-breaking abilities, and maximize the profits of your Budgie-powered empire!",
+    "releaseDate": 1779667200,
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coboza.jpg"
+  },
+  {
+    "title": "Kanji Cats",
+    "desc": "Tired of Anki or Duolingo? Always get confused by look-alike kanji or mix up on/kun readings? Kanji Cats is an edutainment game that teaches Japanese through cat-and-sushi-themed mini-games. Match, type, and sort kanji while learning in a cozy pixel-art sushi bar with cats!",
+    "releaseDate": 1779667200,
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobl8h.jpg"
+  },
+  {
+    "title": "Auto Derby Casino",
+    "desc": "1-4 players gamble on robot horse races at this casino without rules. Sabotage the horses, manipulate bets, or even blow up the track. Outplay your friends, or at the very least make sure they lose too. All that matters is the payout.",
+    "releaseDate": 1779667200,
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coblgz.jpg"
+  },
+  {
+    "title": "Enthrallor",
+    "desc": "Enthrallor is a 2D top-down action-adventure puzzle game set in a world scarred by forgotten mage wars. You play as Roland, a young mage trapped inside a sentient, decaying armor called an Enthrallor that refuses to let him go.",
+    "releaseDate": 1779667200,
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobq2o.jpg"
+  },
+  {
+    "title": "Neon Fantasy: Dinosaurs",
+    "desc": "Neon Fantasy: Dinosaurs is the perfect puzzle game for a fun and rewarding pastime. Collect pictures, develop your attention, and feel like a part of the beautiful neon world.",
+    "releaseDate": 1779667200,
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc1j3.jpg"
+  },
+  {
+    "title": "Leon & Suharto",
+    "desc": "Leon & Suharto is an interactive visual novel in the dramatic thriller genre.\n\nThe story follows Leon, a bastard child who lost her family and her home in a bloody massacre. Having survived and walked through hell, she resolves to track down those responsible and take revenge for everything she was forced to endure.",
+    "releaseDate": 1779667200,
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc2oc.jpg"
+  },
+  {
+    "title": "Bird Game 3",
+    "desc": "Bird Game 3 is an immersive Multiplayer BvB (Bird vs. Bird) game, now finally coming to Steam! Select your favorite bird and fight other birds for domination over the bird realm!",
+    "releaseDate": 1779667200,
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc3on.jpg"
   }
 ]
