@@ -1,122 +1,170 @@
 [
   {
-    "title": "Paralives",
-    "desc": "You live and then you die. But at least do it in a nice house! Paralives is an upcoming life simulation indie game. Build your dream house, create some characters and manage their lives the way you want!",
-    "releaseDate": 1779667200,
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa4iq.jpg"
+    "title": "007 First Light",
+    "desc": "Earn the Number. 007 First Light is a thrilling espionage action-adventure game from IO Interactive. Follow James Bond as a young, resourceful, and sometimes reckless recruit in MI6's training programme, and discover an origin story of the world’s most famous spy.",
+    "releaseDate": 1779840000,
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaoiz.jpg"
   },
   {
-    "title": "Enter the Chronosphere",
-    "desc": "A psychedelic roguelike that blurs the line between real-time action and turn-based tactics. Play as misfit aliens, craft wild combinations between hundreds of weapons, items and abilities, and disable uncharted chronospheres: Colossal structures that consume time and distort reality.",
-    "releaseDate": 1779667200,
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co862m.jpg"
+    "title": "Enigmatic Worlds",
+    "desc": "Explore strange and abstract worlds filled with equally unusual but deadly beings of many types. Enigmatic Worlds is an FPS inspired by obscure retro-styled FPS games and Amiga games.",
+    "releaseDate": 1779840000,
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9730.jpg"
   },
   {
-    "title": "Vortica",
-    "desc": "Vortica is a 2D action roguelite set in a solar system overrun by hostile aliens. Suit up, loot up, and shoot up as you battle against enemy hordes, explore derelict outposts, and hunt giant bosses. Each mission gets you one step closer to reaching Earth and saving the human race.",
-    "releaseDate": 1779667200,
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobh1w.jpg"
+    "title": "Schrödinger's Call",
+    "desc": "I am Mary. The last person in the world you'll ever talk to. Schrodinger's Call\" is an adventure game that uses a mysterious phone to connect with souls who cannot die. The main character, Mary, wakes up in a strange room with no memory. The player, along with the bewildered Mary, will save souls.",
+    "releaseDate": 1779840000,
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa2nr.jpg"
   },
   {
-    "title": "Transpawt Train",
-    "desc": "Real-time strategy simulation where you become the first railroad designer in the Paw-City! Draw railroad lines between towns and start running your trains. Design railroads for your cute animal residents and grow your Paw_City with efficient routes.",
-    "releaseDate": 1779667200,
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9w9p.jpg"
+    "title": "Starminer",
+    "desc": "Design and build an interstellar mining fleet to strip space of its invaluable minerals, and sell them for a tidy profit. But beware. Your greed will attract the alien. Use warships and defense platforms to protect your fleet at all costs - in real space, in real time.\n\nStarminer is a space industry and logistics simulation that strives to be at the forefront of space strategy gaming, blending cutting-edge rendering technologies with deep tactical and creative gameplay. It's set against backdrops of fully-realized 3D environments, where the beauty of space becomes an integral part of player immersion, setting Starminer apart as a visually stunning and technologically advanced space base-building game. Starminer is built with realism and immersion as core design pillars through the incorporation of Newtonian physics for propulsion and movement. This not only adds a layer of authenticity and complexity to the gameplay but also introduces a rewarding learning curve for players seeking a genuinely advanced spacefaring experience.\n\nIn Starminer, the universe is more than just a pretty backdrop for exploration and conquest—it's a playground for players to explore their creativity and long-term ambitions for their fleets. Central to the game's creative ethos is the ability to design a variety of space stations that bring them toward their goals; whether it's to mine resources, be a defensive power, colonization, energy production, or something else entirely. The dynamic and customizable nature of these different types of stations means that the player doesn’t only decide what their cosmic empire will be; it will become a unique reflection of their strategic prowess and imaginative flair.",
+    "releaseDate": 1779840000,
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8ba1.jpg"
   },
   {
-    "title": "Steam & Clicks",
-    "desc": "Build, upgrade, and fight! In a steampunk world overrun by the undead, Rose Mary uses her workshop to craft weapons and armor in this strategic clicker. Forge powerful gear and face turn-based battles to save her city!",
-    "releaseDate": 1779667200,
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9zus.jpg"
+    "title": "Néro & Sci ∫ Integral Edition",
+    "desc": "In Néro & Sci, players explore a poetic world inspired by mathematics, where shapes, colors, and symbols form the backdrop of a unique adventure. Through the original “White Dimension” mechanic, they uncover a simplified version of the world that reveals new solutions to puzzles.",
+    "releaseDate": 1779840000,
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaoi8.jpg"
   },
   {
-    "title": "Tour: Chess Puzzles",
-    "desc": "Elegant, varied and challenging chess-themed puzzles. No prior knowledge of chess is needed.",
-    "releaseDate": 1779667200,
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa714.jpg"
+    "title": "Tootum",
+    "desc": "Tootum is a charming pixel art metroidvania game that immerses players in a magical world full of mysteries. With magic-based combat, a wide variety of items, and an engaging narrative, Tootum offers a rich experience in exploration and discovery.",
+    "releaseDate": 1779840000,
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9un9.jpg"
   },
   {
-    "title": "Animal Times",
-    "desc": "Command animal armies and conquer territories in this turn-based strategy game where every attack can backfire! Master blunder-style combat, where failed strikes let defenders capture your lands. Bold moves win big in this high-stakes battle for cunning victory.",
-    "releaseDate": 1779667200,
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa86m.jpg"
+    "title": "Voidface",
+    "desc": "Face off in a challenging bullet-hell arena shooter to try and clear bite-sized boss rush challenges. Learn to dodge their attacks, cast spells to gain an upper hand, and kill everything that gets in your way.",
+    "releaseDate": 1779840000,
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobyjy.jpg"
   },
   {
-    "title": "Castella",
-    "desc": "Castella is a Tower Defense Rogue-like, where you will build a fortress to defend yourself from hordes of monsters besieging your castle. During the game you will unlock and upgrade towers and buildings. You will build walls to block the path and defend your resources and town hall.",
-    "releaseDate": 1779667200,
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaa36.jpg"
+    "title": "Coreward",
+    "desc": "Coreward is an incremental game where you use shields to protect yourself from incoming enemies and use their remains to become more powerful.",
+    "releaseDate": 1779840000,
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9uef.jpg"
   },
   {
-    "title": "SkyShard",
-    "desc": "Build your island kingdom and battle other wizards in a war for the throne! A PvP auto battler taking inspiration from city builders and puzzle games.\n\nYour island starts empty, and as you progress through the game you can spend your Mana resource to travel to distant skyshards for resources. Build up your little kingdom and fight other players with asynchronous PVP matchmaking. Can you figure out which units combine best together, and how to manage the space on your little skyshard?",
-    "releaseDate": 1779667200,
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobhsg.jpg"
+    "title": "Sydless",
+    "desc": "Sydless is an ultra-fast movement shooter where your weapon is a chaotic ball that grows deadlier the more you move.",
+    "releaseDate": 1779840000,
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobz6g.jpg"
   },
   {
-    "title": "Plague Alchemist",
-    "desc": "Plague Alchemist is a singleplayer adventure RPG with a deep focus on alchemy. Explore a world where the mundane intertwines with the magical and the corrupt. Harvest and loot your way to uncover the truth behind the world's mysterious decay. Perhaps there is more to it than meets the eye.",
-    "releaseDate": 1779667200,
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coalru.jpg"
+    "title": "TBH: Task Bar Hero",
+    "desc": "The taskbar is now the stage for our heroes! Support their small but epic adventures. Earn chests through their journeys and unlock powerful gear to strengthen your heroes!",
+    "releaseDate": 1779840000,
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobutl.jpg"
   },
   {
-    "title": "Slot or Not",
-    "desc": "Deck-building turn-based slot machine battling adventure. Fight evil fruits aside your battle buddy slot machine to save your village. Spin your destiny and grab the precious loot in a fast paced colorful adventure.",
-    "releaseDate": 1779667200,
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaomz.jpg"
+    "title": "Your Weight",
+    "desc": "Your Weight is a simulation game that turns weight loss into a series of decision-based scenarios. Players manage their character's journey through weight loss by making lifestyle choices, with game mechanics centered around health and fitness decisions that affect the character's progress toward their goal.",
+    "releaseDate": 1779840000,
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coazww.jpg"
   },
   {
-    "title": "Bruisers 2D Boxing",
-    "desc": "Step into the ring and fight your way to the top in Bruisers 2D Boxing — a gritty, retro-styled boxing RPG where every punch counts and every decision shapes your career.\n\nWelcome to the unforgiving world of professional boxing. Build your legacy from the ground up — train hard, fight smart, and manage the life of an up-and-coming fighter chasing glory. With in-depth 2D boxing action and a rich career mode, Bruisers 2D Boxing captures the raw intensity of the sport like never before.",
-    "releaseDate": 1779667200,
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob3kf.jpg"
+    "title": "Birdwatching Notebook",
+    "desc": "Build cozy birdwatching spots on balconies, docks, cliffs, rainforests, or deserts, and wait for lovely birds to visit. A gentle desktop idle game—like tiny postcards on your screen, where beautiful scenes and cute birds accompany your quiet moments.",
+    "releaseDate": 1779840000,
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coau4e.jpg"
   },
   {
-    "title": "Feed The Queen",
-    "desc": "FEED THE QUEEN is an active incremental game with a focus on strategic play and synergy-building.\n\nGather food to grow and evolve your colony. Hatch and upgrade different worker types. Discover new synergies. Optimize your production, customize your build, and feed the Queen ever-increasing amounts of food.",
-    "releaseDate": 1779667200,
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobepn.jpg"
+    "title": "Echo Generation 2",
+    "desc": "Embark on a sci-fi deckbuilding RPG odyssey. Gather your crew, craft powerful decks, and battle across the stars to find your way home. Deal the cards. Defy the cosmos. Embrace the adventure.",
+    "releaseDate": 1779840000,
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobibf.jpg"
   },
   {
-    "title": "Budgie's Bug Shop",
-    "desc": "A short incremental game about catching bugs and running a shop. Upgrade equipment, purchase game-breaking abilities, and maximize the profits of your Budgie-powered empire!",
-    "releaseDate": 1779667200,
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coboza.jpg"
+    "title": "Stranded Survivors",
+    "desc": "Survive swarms of monsters, rescue stranded animals, and build a base where they can be safe in this unique bullet heaven. Turn your rescues into upgrades and build a safe town to create new weapons and recruit powerful heroes that unlock new ways to survive til dawn.",
+    "releaseDate": 1779840000,
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob1ke.jpg"
   },
   {
-    "title": "Kanji Cats",
-    "desc": "Tired of Anki or Duolingo? Always get confused by look-alike kanji or mix up on/kun readings? Kanji Cats is an edutainment game that teaches Japanese through cat-and-sushi-themed mini-games. Match, type, and sort kanji while learning in a cozy pixel-art sushi bar with cats!",
-    "releaseDate": 1779667200,
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobl8h.jpg"
+    "title": "Orbital",
+    "desc": "Explore the cosmos, discover new worlds, and seed life across the stars in ORBITAL, a relaxing 2D space exploration and colony sim. Guide the growth of your civilizations through rich, narrative-driven events where your choices shape their future. A cozy journey to the farthest reaches of space.",
+    "releaseDate": 1779840000,
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobbvn.jpg"
   },
   {
-    "title": "Auto Derby Casino",
-    "desc": "1-4 players gamble on robot horse races at this casino without rules. Sabotage the horses, manipulate bets, or even blow up the track. Outplay your friends, or at the very least make sure they lose too. All that matters is the payout.",
-    "releaseDate": 1779667200,
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coblgz.jpg"
+    "title": "System Overload",
+    "desc": "SYSTEM STATUS: UNSTABLE> System Overload is a resource management sim disguised as a Win95/98 Task Manager. Balance CPU, RAM, and heat while fighting malware across 8 unique endings. Push your hardware to the limit—just don't trigger a meltdown. >DO_NOT_CRASH.",
+    "releaseDate": 1779840000,
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobjld.jpg"
   },
   {
-    "title": "Enthrallor",
-    "desc": "Enthrallor is a 2D top-down action-adventure puzzle game set in a world scarred by forgotten mage wars. You play as Roland, a young mage trapped inside a sentient, decaying armor called an Enthrallor that refuses to let him go.",
-    "releaseDate": 1779667200,
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobq2o.jpg"
+    "title": "Nocturne for Cyl-Hestia",
+    "desc": "Play as a memorialist and investigate a dystopian city in this 3D adventure game. Collect memories, unlock visions, hack encrypted data, and expose the truth in the face of a regime that manipulates memory.",
+    "releaseDate": 1779840000,
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobos6.jpg"
   },
   {
-    "title": "Neon Fantasy: Dinosaurs",
-    "desc": "Neon Fantasy: Dinosaurs is the perfect puzzle game for a fun and rewarding pastime. Collect pictures, develop your attention, and feel like a part of the beautiful neon world.",
-    "releaseDate": 1779667200,
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc1j3.jpg"
+    "title": "Fix and Clerk",
+    "desc": "You work for a device company and your job is to verify paperwork of customers before handing their repaired device to them. Check, interrogate and confirm their identity. Beware of scammers in disguise coming to claim devices that are not theirs.",
+    "releaseDate": 1779840000,
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobkag.jpg"
   },
   {
-    "title": "Leon & Suharto",
-    "desc": "Leon & Suharto is an interactive visual novel in the dramatic thriller genre.\n\nThe story follows Leon, a bastard child who lost her family and her home in a bloody massacre. Having survived and walked through hell, she resolves to track down those responsible and take revenge for everything she was forced to endure.",
-    "releaseDate": 1779667200,
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc2oc.jpg"
+    "title": "Grumpy Jack",
+    "desc": "A bullethell adventure awaits! Join Jack, a reluctant hero, as he battles bizarre enemies, uncovers secrets, meets quirky characters—and hunts down Death’s missing coffee mug.",
+    "releaseDate": 1779840000,
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobkwt.jpg"
   },
   {
-    "title": "Bird Game 3",
-    "desc": "Bird Game 3 is an immersive Multiplayer BvB (Bird vs. Bird) game, now finally coming to Steam! Select your favorite bird and fight other birds for domination over the bird realm!",
-    "releaseDate": 1779667200,
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc3on.jpg"
+    "title": "BarrelBots",
+    "desc": "A multilayered grid-based puzzle game featuring small robots that carry and stack Barrels of nuclear waste.",
+    "releaseDate": 1779840000,
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobmn6.jpg"
+  },
+  {
+    "title": "Hamster Talk",
+    "desc": "Hamster Talk is an idle social game that fits naturally into your day. Interact with lively hamsters on your screen, enjoy their cute reactions with a touch, visit friends’ towns, and have light chats with players around the world—all while your hamsters keep you company.",
+    "releaseDate": 1779840000,
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobo36.jpg"
+  },
+  {
+    "title": "Nitro City Racing",
+    "desc": "Dodge traffic and maintain top speed on your mission to become the ultimate street racer!",
+    "releaseDate": 1779840000,
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobwsr.jpg"
+  },
+  {
+    "title": "Nomnomia",
+    "desc": "Consume enemies to steal their abilities and survive by replenishing your constantly draining HP. Fight for survival on the mysterious planet Nomnomia in this food-chain action shooter.",
+    "releaseDate": 1779840000,
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coby6i.jpg"
+  },
+  {
+    "title": "Regeneration Engine",
+    "desc": "Fall into the engine and try to fight your way back up to the surface in this turn-based RPG. As your companions die, consume their essences to grow stronger. Explore a strange underground world with your party, battle creatures roaming the dark, and discover the mystery behind the apocalypse.",
+    "releaseDate": 1779840000,
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc070.jpg"
+  },
+  {
+    "title": "Ravenswatch: Song of Thieves",
+    "desc": "No description available",
+    "releaseDate": 1779840000,
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc161.jpg"
+  },
+  {
+    "title": "Pioneers of Pagonia: Meadowsong",
+    "desc": "Experience the story of the island Meadowsong. Once known for their thriving agriculture, the harvest of Meadowsong is haunted by a mysterious Withering destroying everything. Build new production chains with fruits, wine and livestock and help to solve the mystery of the witches' coven!",
+    "releaseDate": 1779840000,
+    "cover": null
+  },
+  {
+    "title": "My Music Label",
+    "desc": "My Music Label is a music management and simulation game where you take full control of your label. Discover young talents, manage legendary artists, and shape the evolution of the music industry. Every decision influences careers and music history.",
+    "releaseDate": 1779840000,
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc3cr.jpg"
+  },
+  {
+    "title": "Janitorial Escapism",
+    "desc": "You play as one of the Cleaners/Maintenance team members at the Black Mesa Research Facility. After the resonance cascade occurs, you are forced to make you way to the surface and escape.",
+    "releaseDate": 1779840000,
+    "cover": null
   }
 ]
