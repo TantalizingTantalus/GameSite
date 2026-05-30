@@ -1,278 +1,32 @@
 [
   {
-    "title": "Fire Boy",
-    "desc": "A hero who talks to the player in a comical way about his actions in the game, adventure in classic 2D platform style, are 5 worlds with different and challenging characteristics. Join the Fire Boy and help him recover all the dinosaur eggs that were stolen by the little monsters.",
-    "releaseDate": 1780012800,
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3zp5.jpg"
+    "title": "Project Microchip",
+    "desc": "A social deduction survival game set in a radiation-filled, abandoned forest. Survivors must complete tasks to stay alive, while the Infected hunt them down.",
+    "releaseDate": 1780099200,
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobm3f.jpg"
   },
   {
-    "title": "Mina the Hollower",
-    "desc": "Mina the Hollower is a bone-chilling action-adventure game featuring classic gameplay and an 8-bit aesthetic in the style of Game Boy Color, refined for the modern era.\n\nQuick and deliberate 60fps action combat, captivating world design, and top-down adventuring combine in a nostalgic blend. Whip foes, burrow through the ground, and explore a pixel-perfect world in Mina the Hollower, a brand new game from the developers who brought you Shovel Knight!",
-    "releaseDate": 1780012800,
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4g15.jpg"
+    "title": "Smile Town",
+    "desc": "Pay off your debts by working part-time in the nightlife district of Smile Town! Buy items from your friend Apple Ginger's shop to get an advantage at your part-time job.",
+    "releaseDate": 1780099200,
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobvno.jpg"
   },
   {
-    "title": "It Lives in the Woods",
-    "desc": "It Lives in the Woods is a first-person psychological horror set in the forests of Canada. You are Ibrahim, a father who has recently lost his daughter whilst on a hiking trip in the forest last winter. You hope to find what happened to your daughter and whether you can reunite with her.",
-    "releaseDate": 1780012800,
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5hfn.jpg"
+    "title": "Backrooms: The Twisted One",
+    "desc": "Backrooms: The Twisted One is a tense horror escape experience set in the classic yellow liminal halls of the Backrooms. Explore 3 levels across Normal and Hard difficulties while haunted doll entities stalk your every move. They freeze when watched, but the moment you look away, they close in. Search the maze for collectible VHS tapes, stay alert, and find your way out before the twisted ones reach you.",
+    "releaseDate": 1780099200,
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobyyb.jpg"
   },
   {
-    "title": "Trakonius",
-    "desc": "A gladiator fighting for his freedom in the sands of the arena... Unaware of the prophecy, Trakonius has fallen into the arena through the machinations of the senate. Even the gods will help him in his tough battle for freedom in the name of justice, but still can he win his freedom?",
-    "releaseDate": 1780012800,
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc207.jpg"
+    "title": "Cat in a Jam: City Secrets",
+    "desc": "No description available",
+    "releaseDate": 1780099200,
+    "cover": null
   },
   {
-    "title": "17.waves",
-    "desc": "17.waves is an online co-op tower defense game for up to four players. Strategize with your teammates to build, upgrade, and maintain your towers to defend your base from hordes of invading aliens.",
-    "releaseDate": 1780012800,
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9e8l.jpg"
-  },
-  {
-    "title": "Automaton Heart",
-    "desc": "Automaton Heart presents a world unlike any you've seen in a computer game before. Enter the RPG sequel to Automaton Lung, now with a detailed organ management system, many dungeons and overworld areas, experience system and equipment upgrades, plus more.",
-    "releaseDate": 1780012800,
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8wxh.jpg"
-  },
-  {
-    "title": "Frontier Legends",
-    "desc": "Welcome to Frontier Legends, the ultimate Wild West adventure where survival, crafting, and exploration come together in an expansive open world. Step into the boots of a brave settler who has just arrived by train, ready to stake your claim on the new frontier filled with untold mysteries.",
-    "releaseDate": 1780012800,
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9pl1.jpg"
-  },
-  {
-    "title": "Rock Island",
-    "desc": "Explore the mystery of the mysterious cube at the center of Boulder Island, dig out endless treasures, wake up the sleeping little boulder people, and lead them to create prosperity!",
-    "releaseDate": 1780012800,
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc2lu.jpg"
-  },
-  {
-    "title": "Iris Odyssey",
-    "desc": "Iris Odyssey is a text-based adventure game. In the heart of Shibuya, an orphaned girl searching for her family and a magical crime investigator are brought together by fate. Their journey will challenge them and spark a battle against unimaginable forces. A modern fantasy adventure begins.",
-    "releaseDate": 1780012800,
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coayxm.jpg"
-  },
-  {
-    "title": "Mighty Meow",
-    "desc": "Mighty Meow is an action RPG with base-building. Rescue adorable animals from dungeons overrun by evil AI robots. While you are fighting relentless foes, your furry friends will be crafting powerful gear for you back at your base. Explore dangerous dungeons, manage resources and expand your base.",
-    "releaseDate": 1780012800,
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9ybs.jpg"
-  },
-  {
-    "title": "Solis",
-    "desc": "Solis is a hand-drawn adventure about technology and deception in a city at night.\nDuring a company trip you explore the city of Solis from dusk till dawn, talking with its inhabitants and meeting colleagues. This night you learn the painful truth about the company you work for. Will you remain loyal?\nIn the game you explore an atmospheric and compact open world. Decisions within the game carry weight, influencing subsequent events, while the in-game text adjusts to reflect your choices.\n\nIn Solis you explore the city, investigate your surroundings and talk with the inhabitants and colleagues you meet. Decisions within the game carry weight, influencing subsequent events, while the in-game text dynamically adjusts to reflect your choices. Interactions are streamlined to utilize a single button, aided by context-sensitive interaction icons. The GUI is a sparse as possible. Solis offers multiple endings and is crafted to be concise and compact. The complete game is estimated to run for approximately 2,5 hours.",
-    "releaseDate": 1780012800,
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa4lu.jpg"
-  },
-  {
-    "title": "Paradise Beyond the Nightmare",
-    "desc": "\"Paradise Beyond the Nightmare\" is a 2D exploration horror game where you explore and solve puzzles in a 2D space with depth. You can experience moving both sideways and forwards through eerie paintings.",
-    "releaseDate": 1780012800,
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coail7.jpg"
-  },
-  {
-    "title": "Dang Darn Island",
-    "desc": "Dang Darn Island is a 1-4 player co-op roguelike adventure. Explore the procedurally generated island, delve deep into the temple, smash pots, dodge traps, and see if you can escape with the Gold Idol!",
-    "releaseDate": 1780012800,
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaoza.jpg"
-  },
-  {
-    "title": "Cat vs. Slime",
-    "desc": "The cats can stack on top of each other like human ring performers, easily reaching the flying slime in the air. As the battle progresses, you can randomly unlock new cats, enhance the cat house, and the mild roguelike elements bring new surprises to each game.",
-    "releaseDate": 1780012800,
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coap7i.jpg"
-  },
-  {
-    "title": "Lexispell",
-    "desc": "Strategy meets physics, in this roguelike word game, where you combine spelling with cool upgrades to score high.",
-    "releaseDate": 1780012800,
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coat32.jpg"
-  },
-  {
-    "title": "Dire Echo",
-    "desc": "In the near future, humanity is steadily expanding into the depths of space. You are an astronaut on a routine but important mission: follow a designated route to a remote station and deliver technical data.\n\nAlong the way, command contacts you with an additional request — retrieve documents from the research vessel \"Echo-7\", which recently went silent. The silence is attributed to a recent geomagnetic storm disrupting communications.\n\nAs you approach Echo-7, you attempt to contact the crew — but there’s no response. The ship appears functional from the outside. Inside — nothing.\n\nNo welcoming party, no signs of life. Just empty corridors, scattered personal belongings, and the unsettling feeling that you're not alone.\n\nKey Features\n\nRealistic graphics — visual fidelity enhances the feeling of unease\n\n️ Haunting atmosphere — silence, isolation, and growing tension follow your every step\n\nImmersive sound — rich audio design pulls you deep into the experience",
-    "releaseDate": 1780012800,
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coat75.jpg"
-  },
-  {
-    "title": "Cochonnet",
-    "desc": "Play Pétanque online with your friends, the traditional french ball-throwing sport where 2 teams compete to land their metal balls closest to the target.",
-    "releaseDate": 1780012800,
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobis5.jpg"
-  },
-  {
-    "title": "Starvester",
-    "desc": "A short incremental game about expanding a star-system wide factory to build giant megastructures in space. Deploy swarms of drones, mine resources, unlock upgrades and harvest the power of the stars!",
-    "releaseDate": 1780012800,
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobhqn.jpg"
-  },
-  {
-    "title": "3876 AD: Corruption",
-    "desc": "A hardcore military sci-fi survival roguelike set in the post-apocalyptic world of 3876 AD. Engage in tense tactical combat, scavenge for resources, complete dangerous quests, and explore an immersive lore full of dark themes and meaningful decisions.",
-    "releaseDate": 1780012800,
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob49v.jpg"
-  },
-  {
-    "title": "Just One More Link",
-    "desc": "A dark arcade incremental roguelite. Invest ZEK to buy time, chain crystals for exponential value, and cash out before collapse. Welcome to Blagine Corp. No refunds.",
-    "releaseDate": 1780012800,
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob9mf.jpg"
-  },
-  {
-    "title": "Triple Pairing",
-    "desc": "HOOKSOFT's 27th project. The gimmick in this title is about navigating a love triangle.",
-    "releaseDate": 1780012800,
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc284.jpg"
-  },
-  {
-    "title": "Relirium: Iseki to Deai to Bouken to",
-    "desc": "Whirlpool's 20th anniversary and final project.",
-    "releaseDate": 1780012800,
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobdd2.jpg"
-  },
-  {
-    "title": "Farming With Lasers",
-    "desc": "Incinerate various pests with your giant laser, as you grow your farm. Purchase incremental upgrades to expedite the process.",
-    "releaseDate": 1780012800,
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobi37.jpg"
-  },
-  {
-    "title": "Backrooms: No Escape",
-    "desc": "A 1–6 player immersive psychological horror experience. Venture through multiple handcrafted liminal Backrooms levels, solve puzzles, explore and survive.",
-    "releaseDate": 1780012800,
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobmul.jpg"
-  },
-  {
-    "title": "Mono",
-    "desc": "『Mono』 is a 2D action game set in a monochrome world. Explore the land to enhance your abilities, defeat the formidable foes standing in your way, and resolve the crisis befalling this black-and-white realm.",
-    "releaseDate": 1780012800,
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobj7q.jpg"
-  },
-  {
-    "title": "Deluge: Raintime",
-    "desc": "Some things don't willingly submit to the games of man, but develop a grudge that sleeps under the soil for decades— An interactive visual novel with psychological and lovecraftian undertones.",
-    "releaseDate": 1780012800,
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobjd6.jpg"
-  },
-  {
-    "title": "Insanio",
-    "desc": "Autobattler where you send misfits into vehicular combat. Your job is to prepare them, deploy them, watch them struggle and finally watch them die or win in massive explosions.",
-    "releaseDate": 1780012800,
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobjs3.jpg"
-  },
-  {
-    "title": "Tail of Glory",
-    "desc": "A charming 2D adventure where a witty thief solves puzzles with knives, potions, and magic books. Light, humorous, and easy to play — a small game crafted with heart and full of unexpected moments.",
-    "releaseDate": 1780012800,
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobjwi.jpg"
-  },
-  {
-    "title": "Teeth Cutter",
-    "desc": "A collection of short horror experiences meant to give you horror, disgust, curiosity, dread and much much more",
-    "releaseDate": 1780012800,
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobk2h.jpg"
-  },
-  {
-    "title": "When We Arrive",
-    "desc": "When We Arrive is a co-op travel game set in a fantasy world, where you and your friends embark on a shared journey. Play as a hunter, mage, or warrior, manage your supplies, discover hidden treasures, and make sure you all reach your destination safely.",
-    "releaseDate": 1780012800,
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc4op.jpg"
-  },
-  {
-    "title": "Into the Slimy Mines",
-    "desc": "A roguelike tower defence with a card twist! Protect your mine and rescue your crew after crash landing on a slime infested moon. Buy cards and booster packs, expand your tunnels, find crazy combos and squish those frackin’ slimes. Dig, build defend – and get off this B&*@!n Moon!",
-    "releaseDate": 1780012800,
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobnk7.jpg"
-  },
-  {
-    "title": "Project Confluence",
-    "desc": "Jump, jetpack, wall run and grapple your way through 3D environments in a race against time. Swap between parallel worlds to add or remove platforms in your way to reach the goal and complete your simulation of Project Confluence.",
-    "releaseDate": 1780012800,
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coblh2.jpg"
-  },
-  {
-    "title": "Don't Touch the Snail",
-    "desc": "You lose forever the second the snail touches your mouse.",
-    "releaseDate": 1780012800,
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobrn8.jpg"
-  },
-  {
-    "title": "A Frog's Job 2: Froggina",
-    "desc": "Your life has come to an end, when you find Frog God he seems impressed. Turns out most frog souls need a soul reaper to show them the way to the afterlife. Find out in this challenging puzzle platformer with a unique clock-stopping mechanic!",
-    "releaseDate": 1780012800,
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc0k7.jpg"
-  },
-  {
-    "title": "New Folder",
-    "desc": "You log on to a computer having no clue of what lies within. Explore its files, solve puzzles to recover missing pieces, and decipher passwords to enter otherwise prohibited folders. As you delve deeper into its content, you’ll find that there is a greater mystery to be solved.",
-    "releaseDate": 1780012800,
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc0uz.jpg"
-  },
-  {
-    "title": "Primordio",
-    "desc": "Survive the void. Control a wisp of pure energy in this roguelike bullet-hell survival game. Chain lightning through swarms of primordial entities, level up with powerful upgrades, and fight to stay alive long enough to learn the secrets of... PRIMORDIO",
-    "releaseDate": 1780012800,
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc1bw.jpg"
-  },
-  {
-    "title": "Dead Gears: Space of War",
-    "desc": "Adapt or become part of it.",
-    "releaseDate": 1780012800,
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc1n5.jpg"
-  },
-  {
-    "title": "Control, I'm Not Coming Back",
-    "desc": "Control, I'm Not Coming Back is a short and emotional narrative game about a lost astronaut searching for a reason to keep going forward while facing the emptiness of space. Inspired by the Hopecore aesthetic, it’s a story about positivism, friendship and our human connection with Voyager 1.",
-    "releaseDate": 1780012800,
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc1xv.jpg"
-  },
-  {
-    "title": "Scorched Lands",
-    "desc": "The world burned. Something survived. So did you.",
-    "releaseDate": 1780012800,
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc25t.jpg"
-  },
-  {
-    "title": "The Retro Exorcist",
-    "desc": "You've been hired to perform exorcisms on all sorts of entities. The only thing you can't seem to understand is...why do they all haunt video games?",
-    "releaseDate": 1780012800,
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc2fz.jpg"
-  },
-  {
-    "title": "Zoo Orbs: Safari",
-    "desc": "Stack, Merge and Reach the Giraffe",
-    "releaseDate": 1780012800,
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc2vo.jpg"
-  },
-  {
-    "title": "TimelineTown",
-    "desc": "Invite friends to TimelineTown and grow your SNS together! Enjoy a relaxing sandbox-style simulation where numbers keep rising and new features unlock as your SNS levels up. Create trends, chat, and make posts go viral!",
-    "releaseDate": 1780012800,
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc2h9.jpg"
-  },
-  {
-    "title": "N.E.R.D",
-    "desc": "N.E.R.D is a story-driven escape room puzzle game, brought to life as a gripping interactive movie.",
-    "releaseDate": 1780012800,
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc45p.jpg"
-  },
-  {
-    "title": "Night Pump: A Horror Game Remake",
-    "desc": "Night Pump: A Horror Game Remake is a first-person psychological horror game where you play as Nick, a young man working the night shift at an isolated gas station surrounded by fog and woods. What starts as a monotonous shift turns into a nightmare when the lights begin to flicker and a distorted voice through the radio warns you: the killer is already inside.\nInspired by classic indie horror titles like Cry of Fear, this remake expands the original with a revamped atmosphere, immersive sound design, and a story as cold as it is personal. Your choices matter — but your fate may already be written.",
-    "releaseDate": 1780012800,
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc3k8.jpg"
-  },
-  {
-    "title": "Kunugi's Life is a Mess!",
-    "desc": "In this roguelike, turn-based dungeon-crawling RPG, play as Kunugi, a homeless girl driven by a pursuit of vengeance after her former bully ruined her life. Dive into dungeons, defeat your enemies, learn new skills, and gear up. Don’t let the bullies gain the upper hand over you!",
-    "releaseDate": 1780012800,
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc4b4.jpg"
-  },
-  {
-    "title": "Obsolete Friends",
-    "desc": "Obsolete Friends is a story focused semi-horror RPG Maker game where you play as Luna, a Moon Guardian bunny, in their everyday routine of helping out their neighbors. Help them bring kindness and hope in a world that has been consumed by darkness, get to know your strange but friendly neighbors and be the best friend you can be! Just try to not think about what's missing...",
-    "releaseDate": 1780012800,
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc4f8.jpg"
+    "title": "Barbarous: Survivor's Quest - Complete Edition",
+    "desc": "No description available",
+    "releaseDate": 1780099200,
+    "cover": null
   }
 ]
