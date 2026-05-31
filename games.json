@@ -1,32 +1,32 @@
 [
   {
-    "title": "Project Microchip",
-    "desc": "A social deduction survival game set in a radiation-filled, abandoned forest. Survivors must complete tasks to stay alive, while the Infected hunt them down.",
-    "releaseDate": 1780099200,
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobm3f.jpg"
+    "title": "Where the Forest Ends",
+    "desc": "Where the forest end is a story-driven, top-down horror shooter set in a zombie-infested post-apocalypse. Visceral, grounded, and realistic. A fresh take on a classic genre.",
+    "releaseDate": 1780185600,
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coanq0.jpg"
   },
   {
-    "title": "Smile Town",
-    "desc": "Pay off your debts by working part-time in the nightlife district of Smile Town! Buy items from your friend Apple Ginger's shop to get an advantage at your part-time job.",
-    "releaseDate": 1780099200,
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobvno.jpg"
-  },
-  {
-    "title": "Backrooms: The Twisted One",
-    "desc": "Backrooms: The Twisted One is a tense horror escape experience set in the classic yellow liminal halls of the Backrooms. Explore 3 levels across Normal and Hard difficulties while haunted doll entities stalk your every move. They freeze when watched, but the moment you look away, they close in. Search the maze for collectible VHS tapes, stay alert, and find your way out before the twisted ones reach you.",
-    "releaseDate": 1780099200,
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobyyb.jpg"
-  },
-  {
-    "title": "Cat in a Jam: City Secrets",
+    "title": "Dragon Ball: Sparking! Zero - DLC 3",
     "desc": "No description available",
-    "releaseDate": 1780099200,
+    "releaseDate": 1780185600,
     "cover": null
   },
   {
-    "title": "Barbarous: Survivor's Quest - Complete Edition",
-    "desc": "No description available",
-    "releaseDate": 1780099200,
-    "cover": null
+    "title": "Reincarnated as a Dark Lord Before Taking Over the World with Power 999999999",
+    "desc": "An idle RPG where you play as a dark lord with the power to reincarnate. Choose different paths with each life to grow progressively stronger, eventually gaining enough power to conquer the world.",
+    "releaseDate": 1780185600,
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coba5p.jpg"
+  },
+  {
+    "title": "Chicken TD: Defenders of the Coop",
+    "desc": "Chicken TD is a unique tower defense game where you strategically summon and upgrade creature towers to defend your coop from waves of enemies, while also engaging in Souls-like melee combat with a chosen weapon to directly hold the line and collect meta-progression currency.",
+    "releaseDate": 1780185600,
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coblxv.jpg"
+  },
+  {
+    "title": "Nerds Revenge",
+    "desc": "You Got A Problem?! is a chaotic multiplayer party game where players fight each other using physics-based combat and random objects.\n\nBetween rounds, players must answer quiz questions to gain advantages, creating a unique mix of skill, chaos, and knowledge.\n\nThe game also features Twitch integration, viewers can answer the same questions as the streamer in real time, allowing direct interaction and comparison of results.\n\nDesigned for both local and online multiplayer, every match delivers unpredictable, funny moments and constant competition between players and their audience.",
+    "releaseDate": 1780185600,
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc0d6.jpg"
   }
 ]
