@@ -1,302 +1,116 @@
 [
   {
-    "title": "Vapor World: Over the Mind",
-    "desc": "To escape the twisted world, the boy begins his journey.\n\nVapor World is an action-adventure game that unfolds the inner world.",
-    "releaseDate": 1780272000,
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3wwj.jpg"
+    "title": "Astro Colony",
+    "desc": "Explore endless Universe and create the most efficient constellation of colonies. Build conveyor systems to automate production. Take care of Astronauts and their needs! Establish new colonies as part of intergalactic simulation.",
+    "releaseDate": 1780358400,
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5q6v.jpg"
   },
   {
-    "title": "Deer & Boy",
-    "desc": "A Cinematic Platformer who you follow the journey of a boy who, during his flight will meet an unexpected companion. Together they will overcome many obstacles that will change their lives forever.",
-    "releaseDate": 1780272000,
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4rqn.jpg"
+    "title": "OddFauna: Secret of the Terrabeast",
+    "desc": "Craft, forage & farm across a whimsical land with new friends in this open world sandbox adventure. What world will you create?",
+    "releaseDate": 1780358400,
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5jw0.jpg"
   },
   {
-    "title": "A Simple Square",
-    "desc": "A simple square is a puzzle game with many interacting mechanics, which you will discover throughout your adventure in a large amount of diversified levels.",
-    "releaseDate": 1780272000,
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc3zr.jpg"
+    "title": "Ourlands",
+    "desc": "Ourlands is a cozy island builder where you handcraft and play around in bespoke little lands and truly explore your creativity. No goals, no management, just vibes.",
+    "releaseDate": 1780358400,
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9rxk.jpg"
   },
   {
-    "title": "Golel",
-    "desc": "Golel, a first person roguelike Dungeon Crawler.Combat is focused on mobility and using the environment to your advantage.Dropping book shelves on an enemy, or kicking an enemy into a trap are all valid tactics.Deep skill/magic and combat gameplay, with many development paths.",
-    "releaseDate": 1780272000,
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co98a6.jpg"
+    "title": "My Little Cafe Nightmare",
+    "desc": "Brew otherworldly coffee for ghostly patrons in a dark, cozy first-person café. Upgrade your shop, manage supplies, and turn a haunted café into a sanctuary amidst nightmares.",
+    "releaseDate": 1780358400,
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coag2o.jpg"
   },
   {
-    "title": "Momento",
-    "desc": "Momento is a cozy room decorator with a twist: the choices you make play out over the course of a lifetime! Decorate your room, choose which items are important to you, and discover how the objects you choose will alter the course of the story, in a winding ode to the power of everyday things.",
-    "releaseDate": 1780272000,
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7gxq.jpg"
+    "title": "Fatekeeper",
+    "desc": "Venture into a handcrafted world where ruins whisper of past cataclysms. Master the art of sword and sorcery and forge your path with relics, spells and choices that shape who you become in this first-person RPG.",
+    "releaseDate": 1780358400,
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa7p3.jpg"
   },
   {
-    "title": "Dark Deception: Monsters & Mortals - Doors",
-    "desc": "DOORS is coming to Monsters & Mortals!",
-    "releaseDate": 1780272000,
+    "title": "Irradiate 235",
+    "desc": "Discover and automate unique materials. Engineer the machines and tools for your factory. Handle hazardous materials to make explosives and near-limitless energy. Use your own tools to navigate a labyrinth of alien passages and uncover untouched tunnels in this innovative Automation-Metroidvania.",
+    "releaseDate": 1780358400,
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa8jj.jpg"
+  },
+  {
+    "title": "Campsite Hustle",
+    "desc": "Build your own outdoor store and campground in the heart of Red Shore Valley. Set up your shelves, manage your stock, expand your campsite, and take care of every guest. From humble beginnings to a thriving business all in the middle of nature!",
+    "releaseDate": 1780358400,
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc4db.jpg"
+  },
+  {
+    "title": "Arcane Merchant",
+    "desc": "Open your own shop in the heart of a Medieval Fantasy realm! Stock your shelves with everything from potions and swords to mysterious crystals and legendary artifacts. Set your prices, earn your customers' trust and become the richest merchant in town!",
+    "releaseDate": 1780358400,
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobghv.jpg"
+  },
+  {
+    "title": "Soul Card Duel",
+    "desc": "A deckbuilder where position and direction make combats more tactical. Flank enemies with 8 attack directions and combine cards to win in any situation. Explore procedural maps, create decks and armor to customize your hero, and forge your legend in the region's grand tournament.",
+    "releaseDate": 1780358400,
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobjhm.jpg"
+  },
+  {
+    "title": "Ultra0",
+    "desc": "Enjoy a simple, easy-to-play pseudo-3D shooter! Upgrade your character with power-ups and take down the approaching monsters before they reach you.",
+    "releaseDate": 1780358400,
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobkih.jpg"
+  },
+  {
+    "title": "I Am Better Than You",
+    "desc": "Prove you're better than the rest by popping balloons with household items! Control your helium-filled robot and make it clear who’s in charge. Wipe out your opponents and the friendship that binds you because only one can win.",
+    "releaseDate": 1780358400,
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc12s.jpg"
+  },
+  {
+    "title": "Monster Ops 19",
+    "desc": "Season 2 of Monster Ops! Black Ops soldiers Wraith and Tide know the world is against them, and they can only rely on each other. Two soldiers, forced to go rogue, with a desperate mission. There's no one left they can trust. A NSFW Gay Visual Novel Dating Sim put out in Monthly Episodes!",
+    "releaseDate": 1780358400,
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc13a.jpg"
+  },
+  {
+    "title": "Unlucky Mummy",
+    "desc": "Unlucky Mummy is an incremental clicker where your task is to open a sarcophagus with a curse on it. Starting with a 25% chance of success, can you find 12 relics in a row to resurrect the mummy?",
+    "releaseDate": 1780358400,
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc2c1.jpg"
+  },
+  {
+    "title": "Satisfactory 1.2",
+    "desc": "Satisfactory update 1.2 brings back Weather to the game! And big changes to wheeled vehicle pathing",
+    "releaseDate": 1780358400,
     "cover": null
   },
   {
-    "title": "BrokenLore: Follow",
-    "desc": "BrokenLore: Follow is a captivating psychological first-person horror game that immerses players in the haunting narrative of Anne, as she grapples with issues of self-acceptance, bullying, and worthlessness while encountering metaphorical surreal creatures that heighten the terror of her journey.",
-    "releaseDate": 1780272000,
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8af0.jpg"
+    "title": "Ward X",
+    "desc": "Ward X is a indie horror puzzle game set inside an abandoned hospital that should have stayed forgotten. Navigate twisted halls and solve puzzles as you search for a way out.",
+    "releaseDate": 1780358400,
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc3p4.jpg"
   },
   {
-    "title": "Rancher: A New Life",
-    "desc": "Start a new life as a Rancher. Travel the forest paths by quad bike, raise cattle, build, repair, and improve your farm. Take care of animals, go fishing, cook, grow vegetables, practice your accuracy on shooting range, take photos, and much more. Relax away from the hustle and bustle of the city!",
-    "releaseDate": 1780272000,
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8la8.jpg"
-  },
-  {
-    "title": "Damashi Game",
-    "desc": "A thrilling multiplayer experience where social deception, strategy, and quick thinking are your greatest weapons. Outsmart your opponents and be the last player standing in this intense fight for survival.",
-    "releaseDate": 1780272000,
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9105.jpg"
-  },
-  {
-    "title": "Muri: Wildwoods",
-    "desc": "Explore the mysterious creature-filled Wildwoods as a Muri. Find secrets, solve puzzles, befriend creatures, and clean away the corruption. Restore the world's beauty in this cozy adventure!",
-    "releaseDate": 1780272000,
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co94sn.jpg"
-  },
-  {
-    "title": "Sister Ray",
-    "desc": "2D RPG about the brutal daily life of a drug addicted artist called Ray, who takes care of her little sister. Look after your condition, so no one finds out about the addiction. Improve your drawing and social skills. Do everything to get cash for another fix. Survive and look for a way out.",
-    "releaseDate": 1780272000,
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coauqu.jpg"
-  },
-  {
-    "title": "Archwizard",
-    "desc": "Fast paced \"Hyper Shooter\" complemented with esoteric exploration experience. Take a quest to become Arch Wizard: dominate surrounding realms, reverse Time, escape Death, befriend Chaos, face the End of the World. Knowledge based progression. High scores. Full of secrets.",
-    "releaseDate": 1780272000,
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa43m.jpg"
-  },
-  {
-    "title": "Gretel's Honesty",
-    "desc": "A comic-like visual novel, expressing a new story based on the fairy tale “Hansel and Gretel”.",
-    "releaseDate": 1780272000,
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9dmw.jpg"
-  },
-  {
-    "title": "Void Martyrs",
-    "desc": "A grimdark survival horror about a nun in a space suit. Scavenge amongst drifting space cathedrals, balance your faith with survival, and craft the tools of your salvation.",
-    "releaseDate": 1780272000,
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9qeg.jpg"
-  },
-  {
-    "title": "Fatherhood Legacy",
-    "desc": "Fatherhood Legacy is an immersive narrative that follows Bryson, a young gamer, as he clashes with his father, Booker, over his future. Through an emotional journey across the city and a meditation-induced flashback to Booker’s past, the two learn to communicate, discover their similarities, and begin overcoming their family’s wounds. Blending interactive storytelling with Black history, gaming culture, and emerging technology, this project explores healing, resilience, and the power of understanding across generations.",
-    "releaseDate": 1780272000,
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa45y.jpg"
-  },
-  {
-    "title": "Schizophrenia: R.E.M. Protocol",
-    "desc": "Schizophrenia is a game where you have to not go crazy and get out of the bunker. Use all the items you can find to survive. Remember. The main thing is not to go crazy. And further. Don't make loud noises. They can hear you.",
-    "releaseDate": 1780272000,
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobto0.jpg"
-  },
-  {
-    "title": "Starforged Legacy",
-    "desc": "Outlast the onslaught in a sci-fi survivors-like where your decisions matter as much as your firepower. Command customizable starships, enhance your arsenal with 100+ strategy-defining upgrades, and annihilate endless fleets of cosmic combatants! Carve your legacy among the stars and die trying!",
-    "releaseDate": 1780272000,
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coan3t.jpg"
-  },
-  {
-    "title": "Don't Let It Starve",
-    "desc": "A horror roguelike deckbuilder. You're trapped in a kitchen, forced to feed a half-chef monster that crawls through the vents. Don't let it starve.",
-    "releaseDate": 1780272000,
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobyx1.jpg"
-  },
-  {
-    "title": "Until the End",
-    "desc": "Love remembers you. Even if you’ve forgotten.",
-    "releaseDate": 1780272000,
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaks3.jpg"
-  },
-  {
-    "title": "A Simple Life with My Unobtrusive Sister",
-    "desc": "A fully animated and voiced sister life-sim with roguelite runs. Find a cure for Mio’s illness. Share meals and quiet nights at home, then enter the Abyss each day to fight, loot, and push deeper to protect your simple life together.",
-    "releaseDate": 1780272000,
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaop7.jpg"
-  },
-  {
-    "title": "Fallout: New Vegas - 15th Anniversary Bundle",
+    "title": "Pokémon Go: Forever Forward",
     "desc": "No description available",
-    "releaseDate": 1780272000,
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaqqg.jpg"
+    "releaseDate": 1780358400,
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc4hh.jpg"
   },
   {
-    "title": "Freefall '95",
-    "desc": "Fast paced, arcade-like, 90’s inspired action packed fun! Play as a passenger on board a doomed flight stuck in a twisted time loop in the year 1995. Explore a wild time-bending narrative while stacking up trick combos, collecting items, earning coins, upgrading abilities and dodging debris!",
-    "releaseDate": 1780272000,
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc3nu.jpg"
+    "title": "Battleship Command",
+    "desc": "Command the mighty Scharnhorst in this immersive WWII naval simulation. Walk her decks in first-person, control gunnery, radar, and navigation, and lead your fleet through the Atlantic, Arctic, and Mediterranean. Battle convoys, outwit enemies, and survive the stormy seas of war.",
+    "releaseDate": 1780358400,
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc4bb.jpg"
   },
   {
-    "title": "Orbital",
-    "desc": "Orbital is an outer space, endless survival, arcade game where players become planetary pilots to prolong the inevitable grasp of a super massive blackhole, witnessing the collapse of the solar system. Navigate the cosmic perils and chaos, deploying specialised planetary tech to endure the onslaught and ascend the galactic leaderboard.\n\nAdapt your strategy with each mission and push your endurance further with every attempt.",
-    "releaseDate": 1780272000,
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobv59.jpg"
+    "title": "Fortune Mill",
+    "desc": "An incremental game where you must make $1,000,000 in each room to advance. Throw darts, play scratch-off tickets, unlock automation, and choose upgrades carefully as each room affects all the others. Can you escape the Fortune Mill?",
+    "releaseDate": 1780358400,
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc52p.jpg"
   },
   {
-    "title": "Lirai: Heir Of Darkness",
-    "desc": "Lirai: Heir of Darkness is a fast-paced action RPG set in a dark fantasy world consumed by an ancient curse. Players take on the role of Brian, a warrior who must uncover the truth behind their corrupted heritage before losing their humanity entirely.\n\nThe game features intense real-time combat with a fluid combo system that rewards precision and timing. Each enemy presents unique attack patterns and weaknesses that require both strategy and quick reflexes to overcome. Boss encounters push combat mastery to the limit with multi-phase battles against legendary demons trapped between worlds.\n\nLirai: Heir of Darkness combines challenging skill-based combat, atmospheric world design, and narrative-driven gameplay, exploring themes of sacrifice, identity, and the corrupting nature of power.",
-    "releaseDate": 1780272000,
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob5x7.jpg"
-  },
-  {
-    "title": "Chef Knight",
-    "desc": "Cook what you kill in this cozy fantasy incremental. Slay monsters, turn them into delicious meals, and build your dungeon food business!",
-    "releaseDate": 1780272000,
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc4d3.jpg"
-  },
-  {
-    "title": "Wheel Balance",
-    "desc": "Wheel Balance is a hard and fun physics-based game about balancing on two wheels. Master controls and beat all locations, compete with your friends. Try not to fall far away down!",
-    "releaseDate": 1780272000,
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobhlo.jpg"
-  },
-  {
-    "title": "Tekken 8: Kunimitsu",
-    "desc": "While posing undercover as a student at Mishima Polytechnical School, Kunimitsu digs for information on the Mishima Zaibatsu and establishes a precious alliance with Reina. After decoding an ancient document, Kunimitsu's path leads her to obtain Kuatatou, nine cursed blades that contain evil spirits. To steal the Cursed Blade from her mother's sworn enemy, Yoshimitsu, Kunimitsu throws herself into the fray, equipped with new, powerful techniques.",
-    "releaseDate": 1780272000,
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc4u5.jpg"
-  },
-  {
-    "title": "Chrysalis: Chrome Butterfly",
-    "desc": "Chrysalis: Chrome Butterfly - a cyberpunk neo-noir thriller. Play as Wendy, an agent with memory gaps investigating a disappearance in Neo-Kyoto. Switch between choreographed combat and detective work to uncover a conspiracy where reality is an illusion. But is the truth worth knowing?",
-    "releaseDate": 1780272000,
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobios.jpg"
-  },
-  {
-    "title": "Grinnel",
-    "desc": "If you stop, your light will go out, if you turn around, your path will be erased. GRINNEL is a living maze that tracks your movements and glances. Don't look back because the darkness is waiting for you there.",
-    "releaseDate": 1780272000,
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobiq5.jpg"
-  },
-  {
-    "title": "Murderous Sunlight",
-    "desc": "In a dark world where Holy mages rewrite probability and Profane forces trap the dead in eternal patterns, Murderous Sunlight blends exploration, psychological depth, and occasional combat in an unsettling journey. Unravel a linear, character-driven story about trauma, identity, and defiance.",
-    "releaseDate": 1780272000,
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobo6i.jpg"
-  },
-  {
-    "title": "Beam It Up!",
-    "desc": "Capture monsters from distant planets and add them to your cosmic collection. Upgrade your ship, travel further, and become the galaxy’s top collector.",
-    "releaseDate": 1780272000,
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobjly.jpg"
-  },
-  {
-    "title": "Shape World Level up Lite",
-    "desc": "A hyper clicker that combines control and strategy! From casual play to extreme difficulty, anyone can take on the challenge. Experience a vast adventure and endless leveling created by a solo developer!",
-    "releaseDate": 1780272000,
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobjr4.jpg"
-  },
-  {
-    "title": "Whiskers Tale",
-    "desc": "A cozy cat adventure set in a charming city. Explore rooftops, chase pigeons, help townsfolk, and uncover heartfelt stories at your own pace.",
-    "releaseDate": 1780272000,
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobm4r.jpg"
-  },
-  {
-    "title": "Fragile Frontier",
-    "desc": "You're an owl postal worker who just brought the first automobile to Moonperch Island. Drive with packages stacked on your roof, hit a bump, watch them scatter! Triple-jump to glide, help friends recover cargo, upgrade your truck. 1-4 player co-op. But why is the mountain getting warmer...?",
-    "releaseDate": 1780272000,
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobjs0.jpg"
-  },
-  {
-    "title": "Black Border 3",
-    "desc": "The border never sleeps — and neither can you.  Inspect documents, expose secrets, and make life-changing decisions in this gripping night patrol simulator where one mistake can change everything. ️‍♀️",
-    "releaseDate": 1780272000,
-    "cover": null
-  },
-  {
-    "title": "Decimation",
-    "desc": "Sci-fi tower defense meets ARPG-like hero combat. Build towers then fight alongside them with your hero as you battle through a campaign to uncover the fate of a colonization effort on a distant planet.",
-    "releaseDate": 1780272000,
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc33a.jpg"
-  },
-  {
-    "title": "PawlleyBall",
-    "desc": "PawlleyBall is a cute volleyball game where cats face off in quick 1v1 matches. Jump, dive, and spike to score against opponents on colorful, stylized courts. Simple controls and lively rallies make it fun to pick up and replay.",
-    "releaseDate": 1780272000,
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobk0x.jpg"
-  },
-  {
-    "title": "WWE 2K26: WrestleMania 42 Pack",
-    "desc": "No description available",
-    "releaseDate": 1780272000,
-    "cover": null
-  },
-  {
-    "title": "Focus Grove",
-    "desc": "Build your cozy forest farm… while thriving in life. Focus Grove is a mindful game that improves your focus, well-being and work-life balance. Let your Woodlings grow your farm, while you grow in life.",
-    "releaseDate": 1780272000,
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc35x.jpg"
-  },
-  {
-    "title": "Celestial Lumina",
-    "desc": "Ascend from the depths as Evan, heir of a fallen underworld, to uncover the truth behind a world stripped of dawn. Celestial Lumina is a 2D Pixel-Art Metroidvania where Light clashes with the Darkness that stole the sky.",
-    "releaseDate": 1780272000,
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobku9.jpg"
-  },
-  {
-    "title": "Space Empires 4X",
-    "desc": "A faithful digital adaptation of the acclaimed board game by GMT Games, beloved by wargamers for almost two decades. Command the rise of your civilization and the fall of others, all in one to two hours.",
-    "releaseDate": 1780272000,
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobl8y.jpg"
-  },
-  {
-    "title": "Kal",
-    "desc": "KAL is a first-person psychological horror game. Trapped in an old, abandoned Creole house, immerse yourself in a time loop and relive the story of a slave who became a true legend.",
-    "releaseDate": 1780272000,
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobl9k.jpg"
-  },
-  {
-    "title": "They Are Rising",
-    "desc": "They Are Rising is an RTS strategy game set against the backdrop of the apocalypse. Combine skills, build a massive army, establish shelters, and fight against large numbers of enemies. How long can you survive?",
-    "releaseDate": 1780272000,
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coboa6.jpg"
-  },
-  {
-    "title": "Kurage no Gakkou",
-    "desc": "A teacher-in-training is sent to a middle school where all students are jellyfish, except for this one girl.",
-    "releaseDate": 1780272000,
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobokc.jpg"
-  },
-  {
-    "title": "Furniture Fu",
-    "desc": "Furniture Fu is a home-makeover, demon-hunting, hoard-fighting roguelike. Lay out furniture strategically to make awesome synergies and cosy houses - all in a day’s work for America’s first suburban ninja.",
-    "releaseDate": 1780272000,
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobpd8.jpg"
-  },
-  {
-    "title": "What Happened At Sugar Hill?",
-    "desc": "A First Person Horror Walking Simulator set in a fictional town called Sugar Hill. Play as various characters trying to unravel the mystery of What Happened At Sugar Hill.",
-    "releaseDate": 1780272000,
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobqat.jpg"
-  },
-  {
-    "title": "Narcissist Tail",
-    "desc": "A point and click horror with a bullet hell dodge combat system.\n\nThis game is about helping a wolf guy who gets annoyed at his loving family as you explore surreal environments.",
-    "releaseDate": 1780272000,
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobrox.jpg"
-  },
-  {
-    "title": "One Song, One Life",
-    "desc": "“One Song, One Life” is a rhythm adventure game where the music and story change based on the notes you hit. Take control of Sumire Kirishima, a girl striving to become the ultimate net artist and perform alongside her idol. Your performance will shape her destiny—one song, one life.",
-    "releaseDate": 1780272000,
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobsik.jpg"
-  },
-  {
-    "title": "Redstream Dispatch",
-    "desc": "Redstream Dispatch casts you as a police officer responding to multiple Dispatch Scenarios. Routine patrols spiral into a violent nightmare tied to a sinister streaming group. Randomized encounters and reactive gore make every run brutal. Rescue the girl. Get out alive.",
-    "releaseDate": 1780272000,
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobvhh.jpg"
-  },
-  {
-    "title": "Exaverse",
-    "desc": "Extinction of the Exaverse is a mobile roguelike where evolved dinosaurs fight back against invading AI machines. Players progress through biome-based runs, choosing powerful upgrades and building unique combat styles each attempt.",
-    "releaseDate": 1780272000,
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobw6i.jpg"
+    "title": "Counter Call: Half Escape Shooter",
+    "desc": "Pressure never stops!",
+    "releaseDate": 1780358400,
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc59r.jpg"
   }
 ]
