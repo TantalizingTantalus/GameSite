@@ -1,8 +1,92 @@
 [
   {
-    "title": "Mudventure",
-    "desc": "Mudventure is a casual sandbox adventure set in a living tidal-flat world of mud. Dig terrain, gather resources, upgrade equipment, and control the environment by building dams. Fight monsters and bosses, enjoy fishing at night, and escape the island by repairing a ship—solo or online co-op.",
-    "releaseDate": 1780790400,
-    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobj4j.jpg"
+    "title": "Killer Bean",
+    "desc": "You are Killer Bean, a rogue assassin who takes out the trash in this world, one bullet at a time. The procedurally generated story changes every time you start a new campaign in this third person, roguelike shooter.",
+    "releaseDate": 1780876800,
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7ht7.jpg"
+  },
+  {
+    "title": "Solarpunk",
+    "desc": "Solarpunk is a survival game in a technically advanced world of floating islands. Alone or together with your friends, you can construct buildings, grow food, craft gadgets and explore distant islands with your own airship.\n\nUse sunlight, wind and water to create an energy system and automate your processes like gathering ressoureces, watering your plants or catching fish.",
+    "releaseDate": 1780876800,
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6jem.jpg"
+  },
+  {
+    "title": "Duppy Detective Tashia",
+    "desc": "Help Tashia unravel the case of a heinous murder and find her cell phone in this point & click, mystery adventure based on Caribbean folklore!",
+    "releaseDate": 1780876800,
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coayjq.jpg"
+  },
+  {
+    "title": "ShotFightDisaster",
+    "desc": "ShotFightDisaster (SFD) presents its tactical, team-based and action-packed gameplay. Players are catapulted into a conflict from which only the best return.",
+    "releaseDate": 1780876800,
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5vn6.jpg"
+  },
+  {
+    "title": "Rakeo",
+    "desc": "Rakeo is a precision platformer about collecting cookies! Find secrets, face bosses, and collect lots of cookies!",
+    "releaseDate": 1780876800,
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/co883a.jpg"
+  },
+  {
+    "title": "Arms of God",
+    "desc": "Gear up for a battle through hell in this next-gen autoshooter with Doom-inspired gore vibes, metal music, roguelite mechanics, and a satisfying combat feel. Wield five weapons at once, upgrade and merge them to forge indestructible builds, and bring divine justice to a world on the brink of chaos.",
+    "releaseDate": 1780876800,
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobftl.jpg"
+  },
+  {
+    "title": "Puni the Florist",
+    "desc": "Puni the Florist is a cozy flower shop simulation game that highlights creative expressions. Manage the shop, design unique bouquets, and join Puni on a silly, wholesome, and relatable journey of self-discovery.",
+    "releaseDate": 1780876800,
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coala2.jpg"
+  },
+  {
+    "title": "Animal Times",
+    "desc": "Command animal armies and conquer territories in this turn-based strategy game where every attack can backfire! Master blunder-style combat, where failed strikes let defenders capture your lands. Bold moves win big in this high-stakes battle for cunning victory.",
+    "releaseDate": 1780876800,
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa86m.jpg"
+  },
+  {
+    "title": "Hell Bug",
+    "desc": "Crush mutant bugs, unlock new allies from the remains of defeated bosses, and build your own swarm of chaos! Hell Bug is a fast-paced roguelite shooter where every boss you defeat brings you closer to expanding your army with strange and powerful bugs. Each bug has a story, some shouldn't be told.",
+    "releaseDate": 1780876800,
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobx66.jpg"
+  },
+  {
+    "title": "Insomnia: Chapter One",
+    "desc": "2012. The Arctic research station \"Persei\" loses contact with the outside world. You are Ethan Miller, a technician sent to the facility to fix the issues. But something here has clearly gone out of control.",
+    "releaseDate": 1780876800,
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coapit.jpg"
+  },
+  {
+    "title": "Vampire Hunter: Nightrise",
+    "desc": "You came to hunt a vampire. Instead, you're trapped in his sprawling Gothic castle. You must hold on to your dwindling faith and dismantle his defenses before Nightrise — or become his prey in this single, story-driven experience.",
+    "releaseDate": 1780876800,
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaqy9.jpg"
+  },
+  {
+    "title": "Spirit Talk",
+    "desc": "Cozy visual novel about a lovely witch who’s able to talk to spirits in a fantasy setting. Using her powers, Julia helps her neighbors in their daily whereabouts. Craft potions, find the right time to use them and get to know both spirits and clients to find their peace.",
+    "releaseDate": 1780876800,
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobcr1.jpg"
+  },
+  {
+    "title": "Layer Land",
+    "desc": "Layerland is a sandbox survival game set in a world that mirrors Earth’s terrain. Travel through gates, capture monsters as pets, and team up to battle, gather, craft, and build.",
+    "releaseDate": 1780876800,
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coblci.jpg"
+  },
+  {
+    "title": "Wageslave",
+    "desc": "A short, narrative, dystopian office survival game. Ship code to eat. Optimise your nootropics stack. Stay sane. Cope with HR's passive-aggressive pings. Climb the career ladder. Retire early (if you can).",
+    "releaseDate": 1780876800,
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobvoq.jpg"
+  },
+  {
+    "title": "Pokegg",
+    "desc": "Simple click‑based egg hatcher inspired by Pokémon Eggs.\nA web‑browser game where you click repeatedly to hatch eggs, earn money for every hatch, and use your earnings to buy rarer eggs or permanent upgrades.\nComplete your Pokédex by discovering every creature you can hatch.",
+    "releaseDate": 1780876800,
+    "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc7cq.jpg"
   }
 ]
